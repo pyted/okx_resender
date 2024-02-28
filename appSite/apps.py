@@ -1,7 +1,7 @@
 from django.apps import AppConfig
 import appSite.globalvar as gv
 
-# gv.threading_init()
+gv.threading_init()
 
 
 class AppsiteConfig(AppConfig):
