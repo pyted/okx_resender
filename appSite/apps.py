@@ -7,4 +7,4 @@ import appSite.globalvar as gv
 class AppsiteConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
     name = 'appSite'
-    verbose_name = 'Okx Resender Mananger'
+    verbose_name = '转发管理'
