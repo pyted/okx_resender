@@ -1,0 +1,9 @@
+django==4.2.2
+uvicorn==0.23.2
+requests
+urllib3==1.26.12
+candlelite
+paux
+okx
+pysqlite3
+pysqlite3-binary
